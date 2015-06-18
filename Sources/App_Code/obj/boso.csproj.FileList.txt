@@ -1,0 +1,6 @@
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\boso.dll.config
+bin\Release\boso.dll
+bin\Release\boso.pdb
+obj\Release\boso.dll
+obj\Release\boso.pdb

@@ -1,0 +1,32 @@
+﻿body {
+}
+
+.dataGrid
+{
+    border-collapse:collapse;
+    border:1px solid #000000;
+    margin:0 auto 0 auto;
+}
+
+.dataGridTitles 
+{
+    border-collapse:collapse;
+    border:1px solid #000000;
+    margin:0 auto 0 auto;
+    background-color:#909090;
+}
+
+.dataGridSelected
+{
+    background-color:#90FF90;
+}
+
+.dataGridPaire
+{
+    background-color:White;
+}
+
+.dataGridImpaire
+{
+    background-color:#F7F6F3;
+}

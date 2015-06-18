@@ -1,0 +1,7 @@
+C:\SOURCE\BOSO\Sources\App_Code\obj\Release\boso.dll
+C:\SOURCE\BOSO\Sources\App_Code\bin\Release\boso.dll.config
+C:\SOURCE\BOSO\Sources\App_Code\bin\Release\boso.dll
+C:\SOURCE\BOSO\Sources\App_Code\bin\Release\boso.pdb
+C:\SOURCE\BOSO\Sources\App_Code\obj\Release\boso.pdb
+C:\SOURCE\BOSO\Sources\App_Code\bin\Release\system.web.extensions.design.dll
+C:\SOURCE\BOSO\Sources\App_Code\bin\Release\system.web.extensions.dll
