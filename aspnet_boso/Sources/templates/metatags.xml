@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<metatagslist>
+  <metatags lang="fr">
+    <language>fr</language>
+    <title>BOSO</title>
+    <keywords>BOSO, Back-Office Service Object, Gladir.com</keywords>
+    <abstract></abstract>
+    <classification></classification>
+    <company>Gladir.com</company>
+    <author>Sylvain Maltais</author>
+    <contentLanguage>fr</contentLanguage>
+    <revisitAfter>15 days</revisitAfter>
+    <rating>General</rating>
+    <robots>index, follow</robots>
+    <distribution>Global</distribution>
+    <identifierURL>http://</identifierURL>
+  </metatags>
+  <metatags lang="en">
+    <language>en</language>
+    <title>BOSO</title>
+    <keywords>BOSO, Back-Office Service Object, Gladir.com</keywords>
+    <abstract></abstract>
+    <classification></classification>
+    <company>Gladir.com</company>
+    <author>Sylvain Maltais</author>
+    <contentLanguage>en</contentLanguage>
+    <revisitAfter>15 days</revisitAfter>
+    <rating>General</rating>
+    <robots>index, follow</robots>
+    <distribution>Global</distribution>
+    <identifierURL>http://</identifierURL>
+  </metatags>
+ </metatagslist> 

@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<metatagslist>
+  <metatags lang="fr">
+    <cin>CIN</cin>
+    <cincolon>CIN:</cincolon>
+    <login>Connexion</login>
+    <password>Mot de passe</password>
+    <passwordcolon>Mot de passe:</passwordcolon>
+    <passwordconfirmcolon>Confirmation du mot de passe:</passwordconfirmcolon>
+    <usersecurity>Sécurité d'un utilisateur</usersecurity>
+    <userid>Identificateur d'utilisateur</userid>
+    <useridcolon>Identificateur d'utilisateur:</useridcolon>
+    <mainmenuadmin>Menu principal de l'administration du BOSO (Back-Office Service Object)</mainmenuadmin>
+    <systemadministratorservice>Service de l'administrateur système:</systemadministratorservice>
+    <administratorservice>Service de l'administrateur:</administratorservice>
+    <cinmanagement>Gestion des CINs</cinmanagement>
+    <cinedit>Gestion d'un CIN</cinedit>
+    <configurationmanagement>Gestion des configurations</configurationmanagement>
+    <configurationedit>Edition d'une variable de configuration</configurationedit>
+    <rolemanagement>Gestion des rôles</rolemanagement>
+    <roleedit>Edition d'un rôle</roleedit>
+    <primaryrolecolon>Rôle primaire:</primaryrolecolon>
+    <usermanagement>Gestion des utilisateurs</usermanagement>
+    <useredit>Gestion d'un utilisateur</useredit>
+    <metatagstemplatemanagement>Gestion des «meta tags» de gabarit</metatagstemplatemanagement>
+    <metatagsedit>Gestion d'un «meta tags»</metatagsedit>
+    <viewlogaction>Consulter le journal de bord des actions</viewlogaction>
+    <logaction>Journal de bord des actions</logaction>
+    <languagemanagement>Gestion des langages</languagemanagement>
+    <languageedit>Edition d'un langage</languageedit>
+    <typeactionmanagement>Gestion des types d'actions</typeactionmanagement>
+    <typeactionedit>Edition d'un type d'action</typeactionedit>
+    <contentmanagement>Gestion de contenus</contentmanagement>
+    <contentedit>Edition d'un contenu</contentedit>
+    <newbutton>Ajouter</newbutton>
+    <deletebutton>Supprimer</deletebutton>
+    <securitybutton>Sécurité</securitybutton>
+    <cancelbutton>Annuler</cancelbutton>
+    <savebutton>Sauvegarder</savebutton>
+    <date>Date</date>
+    <user>Utilisateur</user>
+    <ip>IP</ip>
+    <message>Message</message>
+    <action>Action</action>
+    <firstname>Prénom</firstname>
+    <lastname>Nom</lastname>
+    <firstnamecolon>Prénom:</firstnamecolon>
+    <lastnamecolon>Nom:</lastnamecolon>
+    <emailcolon>Courriel:</emailcolon>
+    <visit>Visite</visit>
+    <name>Nom</name>
+    <nameen>Nom anglais</nameen>
+    <namefr>Nom français</namefr>
+    <nameencolon>Nom anglais:</nameencolon>
+    <namefrcolon>Nom français:</namefrcolon>
+    <mid>MID</mid>
+    <midcolon>MID:</midcolon>
+    <variablename>Nom de variable</variablename>
+    <variablevalue>Valeur de variable</variablevalue>
+    <variablenamecolon>Nom de variable:</variablenamecolon>
+    <variablevaluecolon>Valeur de variable:</variablevaluecolon>
+    <namecolon>Nom:</namecolon>
+    <languagecolon>Langage:</languagecolon>
+    <titlecolon>Titre:</titlecolon>
+    <descriptioncolon>Description:</descriptioncolon>
+    <listnone>&lt;Aucun&gt;</listnone>
+    <deleteconfirmcin>Etes-vous certains de vouloir supprimer ce CIN ?</deleteconfirmcin>
+    <deleteconfirmconfig>Etes-vous certains de vouloir supprimer cette variable de configuration ?</deleteconfirmconfig>
+    <deleteconfirmcontent>Etes-vous certains de vouloir supprimer ce contenu ?</deleteconfirmcontent>
+    <deleteconfirmlanguage>Etes-vous certains de vouloir supprimer ce langage ?</deleteconfirmlanguage>
+    <deleteconfirmrole>Etes-vous certains de vouloir supprimer ce rôle ?</deleteconfirmrole>
+    <deleteconfirmtypeaction>Etes-vous certains de vouloir supprimer ce type d'action ?</deleteconfirmtypeaction>
+    <deleteconfirmuser>Etes-vous certains de vouloir supprimer cette utilisateur ?</deleteconfirmuser>
+  </metatags>
+  <metatags lang="en">
+    <cin>CIN</cin>
+    <cincolon>CIN:</cincolon>
+    <login>Login</login>
+    <password>Password</password>
+    <passwordcolon>Password:</passwordcolon>
+    <passwordconfirmcolon>Password confirm:</passwordconfirmcolon>
+    <usersecurity>User security</usersecurity>
+    <userid>User Id</userid>
+    <useridcolon>User Id:</useridcolon>
+    <mainmenuadmin>Main menu administrator for BOSO (Back-Office Service Object)</mainmenuadmin>
+    <systemadministratorservice>System Administrator service:</systemadministratorservice>
+    <administratorservice>Administrator service:</administratorservice>
+    <cinmanagement>CINs management</cinmanagement>
+    <cinedit>CIN edit</cinedit>
+    <configurationmanagement>Configuration management</configurationmanagement>
+    <configurationedit>Configuration edit</configurationedit>
+    <rolemanagement>Role management</rolemanagement>
+    <roleedit>Role edit</roleedit>
+    <primaryrolecolon>Primary role:</primaryrolecolon>
+    <usermanagement>User management</usermanagement>
+    <useredit>User edit</useredit>
+    <metatagstemplatemanagement>«Meta tags» template management</metatagstemplatemanagement>
+    <metatagsedit>«Meta tags» management</metatagsedit>
+    <viewlogaction>View log action</viewlogaction>
+    <logaction>Log action</logaction>
+    <languagemanagement>Language management</languagemanagement>
+    <languageedit>Language edit</languageedit>
+    <typeactionmanagement>Action type management</typeactionmanagement>
+    <typeactionedit>Action type edit</typeactionedit>
+    <contentmanagement>Content management</contentmanagement>
+    <contentedit>Content edit</contentedit>
+    <newbutton>New</newbutton>
+    <deletebutton>Delete</deletebutton>
+    <securitybutton>Security</securitybutton>
+    <cancelbutton>Cancel</cancelbutton>
+    <savebutton>Save</savebutton>
+    <date>Date</date>
+    <user>User</user>
+    <ip>IP</ip>
+    <message>Message</message>
+    <action>Action</action>
+    <firstname>First name</firstname>
+    <lastname>Last name</lastname>
+    <firstnamecolon>First name:</firstnamecolon>
+    <lastnamecolon>Last name:</lastnamecolon>
+    <emailcolon>Email:</emailcolon>
+    <visit>Visit</visit>
+    <name>Name</name>
+    <nameen>English name</nameen>
+    <namefr>French name</namefr>
+    <nameencolon>English name:</nameencolon>
+    <namefrcolon>French name:</namefrcolon>
+    <mid>MID</mid>
+    <midcolon>MID:</midcolon>
+    <variablename>Variable name</variablename>
+    <variablevalue>Variable value</variablevalue>
+    <variablenamecolon>Variable name:</variablenamecolon>
+    <variablevaluecolon>Variable value:</variablevaluecolon>
+    <namecolon>Name:</namecolon>
+    <languagecolon>Language:</languagecolon>
+    <titlecolon>Title:</titlecolon>
+    <descriptioncolon>Description:</descriptioncolon>
+    <listnone>&lt;None&gt;</listnone>
+    <deleteconfirmcin>Are your sure you want to delete this CIN?</deleteconfirmcin>
+    <deleteconfirmconfig>Are your sure you want to delete this configuration variable?</deleteconfirmconfig>
+    <deleteconfirmcontent>Are your sure you want to delete this content?</deleteconfirmcontent>
+    <deleteconfirmlanguage>Are your sure you want to delete this language?</deleteconfirmlanguage>
+    <deleteconfirmrole>Are your sure you want to delete this role?</deleteconfirmrole>
+    <deleteconfirmtypeaction>Are your sure you want to delete this type action?</deleteconfirmtypeaction>
+    <deleteconfirmuser>Are your sure you want to delete this user ?</deleteconfirmuser>
+    </metatags>
+</metatagslist>
