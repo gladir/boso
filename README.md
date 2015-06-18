@@ -1,0 +1,2 @@
+Cadre d'application ASP .NET (C#) développé en 2008 pour .NET version 2.0 Ce cadre d'application 
+est assez rudimentaire, il n'est plus d'actualité, cependant, le côté éducatif lui reste toujours pertinent.
