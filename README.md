@@ -1,7 +1,7 @@
 Cadre d'application ASP .NET (C#) développé en 2008 pour .NET version 2.0 Ce cadre d'application 
 est assez rudimentaire, il n'est plus d'actualité, cependant, le côté éducatif lui reste toujours pertinent.
 
-<h3>Outils de développement</h3>h3
+<h3>Outils de développement</h3>
 
 L’outil de développement pour le site Web est «Visual Web Developer 2005 Express» et l’outil permettant d’effectuer une compilation de « BOSO » en « DLL »  est «Visual C# Express ».
 
